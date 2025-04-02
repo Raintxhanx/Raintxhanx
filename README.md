@@ -5,7 +5,6 @@ I am a **beginner developer** currently diving into the world of **AI developmen
 
 In addition to programming, I have a strong interest in mathematics, science, and even music. I often create projects related to these topics, but my curiosity doesn't stop there—I'm always eager to explore new domains and broaden my horizons.
 
----
 ## 🧑‍💻 About Me
 - 🔭 I’m currently still a student at: [**Gunadarma University**](https://campus.quipper.com/directory/universitas-gunadarma)
 - 🌱 I’m learning **Object Oriented Programming**
@@ -15,7 +14,6 @@ In addition to programming, I have a strong interest in mathematics, science, an
 - 📫 How to reach me: **raihanaf11538@gmail.com**
 - ⚡ Fun fact: **One of my favorite tools is Excel, which I frequently use not only for data analysis but also as part of a hobby called "Theory Crafting.", In this hobby, I dive deep into understanding game mechanics.**
 
----
 ## 🔧 Technologies I Use
 - **Programming Languages**: 
 
@@ -26,25 +24,22 @@ In addition to programming, I have a strong interest in mathematics, science, an
 </p>
 <br>
 
-- **Frameworks & Software**:
-  <p align="center">
-    <img src="Items/image1_excel.png" width="48" />
-  </p>
-  <p align="center">
-    <img src="Items/image4_tensorflow.png" width="48" />
-  </p>
-  <p align="center">
-    <img src="Items/image3_pytorch.png" width="48" />  
-    **Beginner** in PyTorch
-  </p>
-  <p align="center">
-    <img src="Items/image5_matplotlib.png" width="48" />  
-    **Beginner** in TensorFlow
-  </p>
-  <br>
+<!-- Frameworks & Software -->
+<div style="display: flex; justify-content: flex-start; gap: 16px;">
+  <img src="Items/image1_excel.png" width="48" alt="Excel" />
+  <img src="Items/image4_tensorflow.png" width="48" alt="TensorFlow" />
+  <img src="Items/image3_pytorch.png" width="48" alt="PyTorch" />
+  <img src="Items/image5_matplotlib.png" width="48" alt="Matplotlib" />
+</div>
+
+<!-- Optional text for PyTorch and TensorFlow -->
+<div style="display: flex; justify-content: flex-start; gap: 16px; align-items: center;">
+  <span><strong>Beginner</strong> in PyTorch</span>
+  <span><strong>Beginner</strong> in TensorFlow</span>
+</div>
 
 - **Databases**: 
-  <p align="center">
+  <p align="left">
     <img src="Items/image2_mysql.png" width="48" />
   </p>
   
@@ -57,11 +52,9 @@ In addition to programming, I have a strong interest in mathematics, science, an
 </p>
 <br>
 
----
 ## 📈 My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raintxhanx&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=radical)
 
----
 ## 📣 Additional Info
 - I’m always open to **collaborating** on **open-source projects**.
 - If you’re interested in working together or just want to chat about tech, feel free to reach out!
