@@ -9,57 +9,53 @@ In addition to programming, I have a strong interest in mathematics, science, an
 - 🔭 I’m currently still a student at: [**Gunadarma University**](https://campus.quipper.com/directory/universitas-gunadarma)
 - 🌱 I’m learning **Object Oriented Programming**
 - 👯 I’m looking to collaborate on **Open Source Projects, Especially Python**
-- 🤔 I’m interested in **Backend Programming**, **Software/Mobile Apps**, **Data Analyst** and **Artificial Intelligence**
-- 💬 Feel free to ask me about **Artificial Intelegence World, Data Manipulation, Music, or even Mathematics**
+- 🤔 I’m interested in **Backend Programming**, **Software/Mobile Apps**, **Data Analysis** and **Artificial Intelligence**
+- 💬 Feel free to ask me about **Artificial Intelegence, Data Manipulation, Music, or even Mathematics**
 - 📫 How to reach me: **raihanaf11538@gmail.com**
 - ⚡ Fun fact: **One of my favorite tools is Excel, which I frequently use not only for data analysis but also as part of a hobby called "Theory Crafting.", In this hobby, I dive deep into understanding game mechanics.**
 
 ## 🔧 Technologies I Use
-- **Programming Languages**: 
+**Programming Languages**: 
 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,go" />
   </a>
 </p>
-<br>
 
-- **Frameworks & Software**:
+---
+**Frameworks & Library**:
 <!-- Frameworks & Software -->
 <div style="display: flex; justify-content: flex-start; gap: 16px;">
-  <img src="Items/image1_excel.png" width="48" height="48" alt="Excel" />
-  <img src="Items/image4_tensorflow.png" width="48" height="48" alt="TensorFlow" />
+  <img src="Items\image5_matplotlib.png" width="44" height="44" alt="MatPlotLib" />
   <div style="display: flex; align-items: center; gap: 8px;">
-    <img src="Items/image3_pytorch.png" width="48" height="48" alt="PyTorch" />
+    <br>
+    <img src="Items/image3_pytorch.png" width="38" height="44" alt="PyTorch" />
     <span><strong>Beginner</strong> in PyTorch</span>
   </div>
+  <br>
   <div style="display: flex; align-items: center; gap: 8px;">
-    <img src="Items/image4_tensorflow.png" width="48" height="48" alt="TensorFlow" />
+    <img src="Items/image4_tensorflow.png" width="38" height="44" alt="TensorFlow" />
     <span><strong>Beginner</strong> in TensorFlow</span>
   </div>
 </div>
 
-<!-- Optional text for PyTorch and TensorFlow -->
-<div style="display: flex; justify-content: flex-start; gap: 16px; align-items: center;">
-  <span><strong>Beginner</strong> in PyTorch</span>
-  <span><strong>Beginner</strong> in TensorFlow</span>
-</div>
-
-- **Databases**: 
+---
+**Databases**: 
 <div style="display: flex; justify-content: flex-start; gap: 16px;">
   <img src="Items/image2_mysql.png" width="48" height="48" alt="Mysql" />
 </div>
-  
-- **Tools & DevOps**:
+
+---
+**Tools & DevOps**:
 <p align="left">
+    <img src="Items/image1_excel.png" width="44" height="44" alt="Excel" />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vscode" />
   </a>
 </p>
-<br>
 
-## 📈 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raintxhanx&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=radical)
+---
 
 ## 📣 Additional Info
 - I’m always open to **collaborating** on **open-source projects**.
