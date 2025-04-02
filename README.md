@@ -24,12 +24,19 @@ In addition to programming, I have a strong interest in mathematics, science, an
 </p>
 <br>
 
+- **Frameworks & Software**:
 <!-- Frameworks & Software -->
 <div style="display: flex; justify-content: flex-start; gap: 16px;">
-  <img src="Items/image1_excel.png" width="48" alt="Excel" />
-  <img src="Items/image4_tensorflow.png" width="48" alt="TensorFlow" />
-  <img src="Items/image3_pytorch.png" width="48" alt="PyTorch" />
-  <img src="Items/image5_matplotlib.png" width="48" alt="Matplotlib" />
+  <img src="Items/image1_excel.png" width="48" height="48" alt="Excel" />
+  <img src="Items/image4_tensorflow.png" width="48" height="48" alt="TensorFlow" />
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <img src="Items/image3_pytorch.png" width="48" height="48" alt="PyTorch" />
+    <span><strong>Beginner</strong> in PyTorch</span>
+  </div>
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <img src="Items/image4_tensorflow.png" width="48" height="48" alt="TensorFlow" />
+    <span><strong>Beginner</strong> in TensorFlow</span>
+  </div>
 </div>
 
 <!-- Optional text for PyTorch and TensorFlow -->
@@ -39,12 +46,11 @@ In addition to programming, I have a strong interest in mathematics, science, an
 </div>
 
 - **Databases**: 
-  <p align="left">
-    <img src="Items/image2_mysql.png" width="48" />
-  </p>
+<div style="display: flex; justify-content: flex-start; gap: 16px;">
+  <img src="Items/image2_mysql.png" width="48" height="48" alt="Mysql" />
+</div>
   
 - **Tools & DevOps**:
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vscode" />
