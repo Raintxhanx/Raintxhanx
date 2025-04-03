@@ -80,6 +80,29 @@ In addition to programming, I have a strong interest in mathematics, science, an
  </tbody>
 </table>
 
+<table width="100%">
+ <thead>
+   <tr>
+     <th width="50%" align="center">Interactive Campus Map</a></th>
+     <th width="50%" align="center">Personal Discord Bot</a></th>
+   </tr>
+ </thead>
+ <tbody>
+   <tr>
+     <td><img src="Items\gif1_interactiveMap.gif"></td>
+     <td><img src="Items\gif2_DiscordBot.gif"></td>
+   </tr>
+   <tr>
+     <td valign="text-top">A prototype website that features an interactive map displaying the distribution of campuses stored in the database. Users can easily add new data and filter specific campuses based on their criteria.</td>
+     <td valign="text-top">A personal Discord bot designed to automate specific tasks and simulate the Genshin Impact pull mechanics.</td>
+   </tr>
+    <tr>
+    <td align="center"><a href="https://github.com/Raintxhanx/Interactive-Campus-Map">Read More</td>    
+    <td align="center"><a href="https://github.com/Raintxhanx/Personal-Discord-Bot">Read More</td>
+  </tr>
+ </tbody>
+</table>
+
 ---
 
 ## 📣 Additional Info
