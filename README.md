@@ -55,6 +55,27 @@ In addition to programming, I have a strong interest in mathematics, science, an
   </a>
 </p>
 
+
+## Fake Project
+<table width="100%">
+ <thead>
+   <tr>
+     <th width="50%" align="center">Linked List Visualisation</a></th>
+     <th width="50%" align="center">Excel Sheet Extraction</a></th>
+   </tr>
+ </thead>
+ <tbody>
+   <tr>
+     <td><img src="Items\image6_linkedlist.PNG"></td>
+     <td><img src="Items\image7_sheetExtraction.PNG"></td>
+   </tr>
+   <tr>
+     <td valign="text-top">A desktop application built with PyQt to visualize a linked list data structure. Users can input data with specific conditions or manipulate the structure, and the program will dynamically display the resulting linked list as output.</td>
+     <td valign="text-top">A Windows executable program that extracts data based on a specific keyword in a chosen column, then organizes and saves the filtered data into a new Excel file, with each unique keyword placed in its own dedicated sheet.</td>
+   </tr>
+ </tbody>
+</table>
+
 ---
 
 ## 📣 Additional Info
