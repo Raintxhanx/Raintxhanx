@@ -73,6 +73,10 @@ In addition to programming, I have a strong interest in mathematics, science, an
      <td valign="text-top">A desktop application built with PyQt to visualize a linked list data structure. Users can input data with specific conditions or manipulate the structure, and the program will dynamically display the resulting linked list as output.</td>
      <td valign="text-top">A Windows executable program that extracts data based on a specific keyword in a chosen column, then organizes and saves the filtered data into a new Excel file, with each unique keyword placed in its own dedicated sheet.</td>
    </tr>
+    <tr>
+    <td align="center"><a href="https://github.com/Raintxhanx/Linked-List-Visualizer">Read More</td>    
+    <td align="center"><a href="https://github.com/Raintxhanx/Excel-Sheet-Extraction-">Read More</td>
+  </tr>
  </tbody>
 </table>
 
