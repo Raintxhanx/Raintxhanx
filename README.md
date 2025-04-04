@@ -7,7 +7,7 @@ In addition to programming, I have a strong interest in mathematics, science, an
 
 ## 🧑‍💻 About Me
 - 🔭 I’m currently still a student at: [**Gunadarma University**](https://campus.quipper.com/directory/universitas-gunadarma)
-- 🌱 I’m learning **Object Oriented Programming**
+- 🌱 I’m learning **Object Oriented Programming and AI Engineering**
 - 👯 I’m looking to collaborate on **Open Source Projects, Especially Python**
 - 🤔 I’m interested in **Backend Programming**, **Software/Mobile Apps**, **Data Analysis** and **Artificial Intelligence**
 - 💬 Feel free to ask me about **Artificial Intelegence, Data Manipulation, Music, or even Mathematics**
@@ -55,30 +55,7 @@ In addition to programming, I have a strong interest in mathematics, science, an
   </a>
 </p>
 
-
-## Fake Project
-<table width="100%">
- <thead>
-   <tr>
-     <th width="50%" align="center">Linked List Visualisation</a></th>
-     <th width="50%" align="center">Excel Sheet Extraction</a></th>
-   </tr>
- </thead>
- <tbody>
-   <tr>
-     <td><img src="Items\image6_linkedlist.PNG"></td>
-     <td><img src="Items\image7_sheetExtraction.PNG"></td>
-   </tr>
-   <tr>
-     <td valign="text-top">A desktop application built with PyQt to visualize a linked list data structure. Users can input data with specific conditions or manipulate the structure, and the program will dynamically display the resulting linked list as output.</td>
-     <td valign="text-top">A Windows executable program that extracts data based on a specific keyword in a chosen column, then organizes and saves the filtered data into a new Excel file, with each unique keyword placed in its own dedicated sheet.</td>
-   </tr>
-    <tr>
-    <td align="center"><a href="https://github.com/Raintxhanx/Linked-List-Visualizer">Read More</td>    
-    <td align="center"><a href="https://github.com/Raintxhanx/Excel-Sheet-Extraction-">Read More</td>
-  </tr>
- </tbody>
-</table>
+## Personal Project
 
 <table width="100%">
  <thead>
@@ -99,6 +76,29 @@ In addition to programming, I have a strong interest in mathematics, science, an
     <tr>
     <td align="center"><a href="https://github.com/Raintxhanx/Interactive-Campus-Map">Read More</td>    
     <td align="center"><a href="https://github.com/Raintxhanx/Personal-Discord-Bot">Read More</td>
+  </tr>
+ </tbody>
+</table>
+
+<table width="100%">
+ <thead>
+   <tr>
+     <th width="50%" align="center">Linked List Visualisation</a></th>
+     <th width="50%" align="center">Excel Sheet Extraction</a></th>
+   </tr>
+ </thead>
+ <tbody>
+   <tr>
+     <td><img src="Items\image6_linkedlist.PNG"></td>
+     <td><img src="Items\image7_sheetExtraction.PNG"></td>
+   </tr>
+   <tr>
+     <td valign="text-top">A desktop application built with PyQt to visualize a linked list data structure. Users can input data with specific conditions or manipulate the structure, and the program will dynamically display the resulting linked list as output.</td>
+     <td valign="text-top">A Windows executable program that extracts data based on a specific keyword in a chosen column, then organizes and saves the filtered data into a new Excel file, with each unique keyword placed in its own dedicated sheet.</td>
+   </tr>
+    <tr>
+    <td align="center"><a href="https://github.com/Raintxhanx/Linked-List-Visualizer">Read More</td>    
+    <td align="center"><a href="https://github.com/Raintxhanx/Excel-Sheet-Extraction-">Read More</td>
   </tr>
  </tbody>
 </table>
