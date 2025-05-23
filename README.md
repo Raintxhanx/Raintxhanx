@@ -1,7 +1,7 @@
 # 👋 Hello World!! I'm Raihan Fathoni
 or you can find me by the tag **@raintxhanx!**
 
-I am a **beginner developer** currently diving into the world of **AI development**, **Object-Oriented Programming**, **and Data Analysis**, while actively contributing to open-source projects. My goal is to continually learn and grow in these fields every day.
+I am a **beginner developer** currently diving into the world of **AI development**, **Backend Engineering**, **and Data Analysis**, while actively contributing to open-source projects. My goal is to continually learn and grow in these fields every day.
 
 In addition to programming, I have a strong interest in mathematics, science, and even music. I often create projects related to these topics, but my curiosity doesn't stop there—I'm always eager to explore new domains and broaden my horizons.
 
