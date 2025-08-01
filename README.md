@@ -23,6 +23,11 @@ In addition to programming, I have a strong interest in mathematics, science, an
   </a>
 </p>
 
+<!-- Stats-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raintxhanx&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 ---
 **Frameworks & Library**:
 <!-- Frameworks & Software -->
