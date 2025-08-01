@@ -11,7 +11,7 @@ In addition to programming, I have a strong interest in mathematics, science, an
 - 👯 I’m looking to collaborate on **Open Source Projects, Especially Python**
 - 🤔 I’m interested in **Backend Programming**, **Software/Mobile Apps**, **Data Analysis** and **Artificial Intelligence**
 - 💬 Feel free to ask me about **Artificial Intelegence, Data Manipulation, Music, or even Mathematics**
-- 📫 How to reach me: **raihanaf11538@gmail.com**
+- 📫 How to reach me: **raintxhanx@gmail.com**
 - ⚡ Fun fact: **One of my favorite tools is Excel, which I frequently use not only for data analysis but also as part of a hobby called "Theory Crafting.", In this hobby, I dive deep into understanding game mechanics.**
 
 ## 🔧 Technologies I Use
