@@ -79,8 +79,8 @@ In addition to programming, I have a strong interest in mathematics, science, an
      <td valign="text-top">GravidaChatbot is a Large Language Model (LLM)-powered medical question-and-answer system designed to support expectant mothers through preventive health education and stunting prevention. Operating entirely in Bahasa Indonesia, the chatbot specializes in maternal health, covering pregnancy, prenatal care, childbirth, postpartum care, and related maternal health topics. It provides reliable, accessible, and context-aware information to help mothers make informed health decisions throughout their pregnancy journey.</td>
    </tr>
     <tr>
-    <td align="center"><a href="https://github.com/Raintxhanx/Interactive-Campus-Map">Read More</td>    
-    <td align="center"><a href="https://github.com/Raintxhanx/Personal-Discord-Bot">Read More</td>
+    <td align="center"><a href="https://github.com/Raintxhanx/GravidaCompan.io">Read More</td>    
+    <td align="center"><a href="https://github.com/Raintxhanx/GravidaChatbot">Read More</td>
   </tr>
  </tbody>
 </table>
