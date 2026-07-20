@@ -65,6 +65,29 @@ In addition to programming, I have a strong interest in mathematics, science, an
 <table width="100%">
  <thead>
    <tr>
+     <th width="50%" align="center">GravidaCompan.io</a></th>
+     <th width="50%" align="center">GravidaChatbot</a></th>
+   </tr>
+ </thead>
+ <tbody>
+   <tr>
+     <td><img src="Items\user_dashboard.PNG"></td>
+     <td><img src="Items\VisualisasiPerbandinganArsitekturLLM.png"></td>
+   </tr>
+   <tr>
+     <td valign="text-top">GravidaCompan.io is a web-based platform that provides integrated pregnancy monitoring and early pregnancy risk detection powered by artificial intelligence (AI). The platform also features an interactive communication system that connects expectant mothers with obstetricians, enabling online consultations, continuous medical guidance, and personalized support throughout pregnancy.</td>
+     <td valign="text-top">GravidaChatbot is a Large Language Model (LLM)-powered medical question-and-answer system designed to support expectant mothers through preventive health education and stunting prevention. Operating entirely in Bahasa Indonesia, the chatbot specializes in maternal health, covering pregnancy, prenatal care, childbirth, postpartum care, and related maternal health topics. It provides reliable, accessible, and context-aware information to help mothers make informed health decisions throughout their pregnancy journey.</td>
+   </tr>
+    <tr>
+    <td align="center"><a href="https://github.com/Raintxhanx/Interactive-Campus-Map">Read More</td>    
+    <td align="center"><a href="https://github.com/Raintxhanx/Personal-Discord-Bot">Read More</td>
+  </tr>
+ </tbody>
+</table>
+
+<table width="100%">
+ <thead>
+   <tr>
      <th width="50%" align="center">Interactive Campus Map</a></th>
      <th width="50%" align="center">Personal Discord Bot</a></th>
    </tr>
